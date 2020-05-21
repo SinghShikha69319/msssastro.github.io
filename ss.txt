@@ -1,0 +1,47 @@
+<!-- ****Start of home content*** -->
+    <!-- <section id="homecontent" class="container">
+        <h1 class="text-center text-uppercase" style="color:black">Welcome to MS Astro</h1>
+        <p>Astrology is the study of the influence that distant cosmic objects, usually stars and planets, have on human lives. The position of the sun, stars, moon and planets at the time of people's birth (not their conception) is said to shape their personality,
+            affect their romantic relationships and predict their economic fortunes, among other divinations. What most people know about astrology is their "sign," which refers to one of the 12 constellations of the zodiac. This is a form of sun-sign
+            astrology, which is the astrology upon which newspaper horoscopes are based. It is probably the simplest form, because nothing more than the date of someone's birthday is needed to generate a sun-sign horoscope. Many astrologers will tell
+            you that this form of astrology is so simplistic that it produces very limited results.
+        </p>
+        <p> <b>Pandit M.S Shastri</b> serves you a combination of beauty with rain. He is the only one who can convert every impossible problem in a possible solution. His name is enough to define his personality, that's why people are taking guidelines from
+            him to convert their disturbed life into a peaceful life.</p>
+        <h3 style="color:black"><strong>He is able to give the right solution of the following challenges:-</strong> </h3><br>
+        <h4 style="color:black"><b>Child Problem solution</b></h4>
+        <p>Birth of a child is the greatest pleasure for any parent as motherhood and fatherhood. This is the kind of pleasure which every married couple wants, but at times due to some adverse situations Couple do not bless with this happiness of having
+            a baby or losing their child after birth. At times medical science cannot solve this problem or physical fitness also cannot help in childbirth. These problems can be solved out through astrology.</p>
+        <h4 style="color:black"><b>Love problem solution specialist</b></h4>
+        <p>In present era of relationship there is too mistake are comes such as misunderstanding, misconception, careless, ignoring etc. that time they live in relationship not give the importance of anything but they throughout from that, then they recognize
+            the actual of it, so in marriage problems solution specialist pandit attach with you personally and professionally.</p>
+        <h4 style="color:black"><b>Janampatri</b></h4>
+        <p>A horoscope/janampatri is a basic tool for making astrological forecasts. To cast your horoscope, your exact time, place, and date of birth is required for astronomical calculations. With free horoscope, you will get your free Ascendant, Moon
+            sign and Nakshatra predictions.</p>
+        <h4 style="color:black"><b>Get your love back by vashikaran</b></h4>
+        <p>Have you been in such situation in your life when you had lost your love due to some uncertain reasons like your lover didn't understand your inner feelings or your family didn't agreed on your love relations or your love left you alone and ran
+            away. If you have faced such love problems in your life in past either or facing such problems in your love relations, it's time to find solutions to all your love problems through Astrology, Vashikaran and Black Magic..</p>
+    </section> -->
+    <!-- ****End of home content*** -->
+    <!-- ***Start of home content*** -->
+    <!-- ***End of home content*** -->
+    <!-- ****Start of About content*** -->
+    <!-- <section id="aboutcontent" class="container">
+        <h1 class="text-center " style="color:black">About Pt. Manoj Shastri</h1>
+        <div class="row">
+            <div class="col-md-3">
+                <img src="images/IMG-20200507-WA0001.jpg" class="img-fluid">
+            </div>
+            <p class="col-md-9"> Welcome to the universe of Astrology. Under the direction of <b>Acharya Manoj Shukla</b> , MS Astro is an astrology service provider based in Mumbai. It is devoted to bring the dependable and well-demonstrated guiding, advice and answer for
+                its clients in the most ideal way. Regardless of whether you are searching for Horoscope services, Matchmaking reason, Lucky Stone, Vastu Shastra, status of Rahu, Ketu and Shani in your fortune, Numerology services or Kundli making services,
+                MS Astro is one stop answer for all your needs.MS Astro is a one stop answer for a wide range of requirements relating to Astrological services. We help clients by guaranteeing them the best of Astrology, Numerology and Horoscope services.
+                The veteran astrologists at MS Astro are knowledgeable in different portions of astrology and they have been broadly valued by the clients for their amazing services..</p>
+            <p><b>MS Astro</b> is a website on the subject of Indian Astrology, an initiative taken by <b>Pandit M.S. Shastri</b>, one of the best astrologers in India to make people aware about this ancient science. Horoscope matching is also one of the
+                services offered by All India Astrological Services. Horoscopes of two individuals (male and a female) are matched for mutual compatibility. It provides information on how the two will relate in the future. It includes authentic analysis
+                of various factors such as Ashtakoot and Manglik Dosh and tells what kind of partnership is suitable. It also suggests the remedial measures in case of strong Manglik defects. Another valuable service offered by us is "Nakshatra Phal"
+                for newly born babies. It gives an analysis of the Nakshatra in which the child was born. It provides the "Paya" description and the effect of birth of child on parents, brothers and sisters. It also gives the lucky stone, colours, numbers,
+                and mantras for the child.
+            </p>
+        </div>
+    </section> -->
+    <!-- ****End of About content*** -->

@@ -1,0 +1,77 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: monospace !important;
+    background-color: #575457 !important;
+    color: #fff;
+}
+
+.heading {
+    text-align: center;
+    font-size: 45px;
+    border-bottom: 2px dotted #fff;
+}
+
+.btn-info {
+    width: 50%;
+    letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn-info:hover {
+    transform: scale(1.05);
+}
+
+.icn {
+    font-family: monospace;
+    font-size: 15px;
+    word-spacing: 0px !important;
+}
+
+hr {
+    width: 80%;
+    margin-left: 30px;
+}
+
+nav a {
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    border-top: 3px double #575457;
+    border-bottom: 3px double #575457;
+}
+
+ul li a {
+    color: black;
+    float: left;
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    transition: all 0.5s ease-in-out;
+}
+
+ul li a:hover {
+    color: #999;
+}
+
+.cnt {
+    margin-top: 130px;
+    background-color: #696969;
+}
+
+@media screen and (max-width: 480px) {
+    .cnt {
+        margin-top: 200px;
+    }
+}
